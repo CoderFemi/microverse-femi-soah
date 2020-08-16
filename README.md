@@ -1,5 +1,5 @@
-# FCC Test Suite Template
+# Microverse Trials
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+**Tribute Page Project** by Femi and Muhammad for the Microverse Trials program. 
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+[Click here](https://coderfemi.github.io/microverse-femi-soah/) to view our page.
